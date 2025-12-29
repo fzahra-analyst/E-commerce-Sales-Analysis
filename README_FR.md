@@ -131,6 +131,23 @@ Ces nouvelles variables ont permis d’obtenir des analyses plus précises et pe
 
 ---
 
+## 📊 Tableau de bord Power BI
+
+Un tableau de bord interactif créé avec **Power BI Desktop** pour analyser les ventes e-commerce et le comportement des clients.
+
+### Principaux insights :
+- Évolution des ventes et du chiffre d’affaires dans le temps
+- Clients récurrents vs clients ponctuels
+- États et régions les plus performants
+- Répartition des commandes par segment de clientèle
+
+### Fichiers :
+- `powerbi/ecommerce_dashboard.pbix` – Fichier Power BI Desktop
+- `powerbi/dashboard_preview.png` – Image d’aperçu du tableau de bord
+
+> 🔍 Pour explorer le tableau de bord, téléchargez le fichier `.pbix` et ouvrez-le avec **Power BI Desktop** (gratuit).
+----
+
 ## 🛠️ 10. Outils & Librairies
 - Python  
 - Pandas  
