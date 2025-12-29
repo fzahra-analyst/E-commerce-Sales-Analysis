@@ -131,6 +131,24 @@ These new features enabled deeper and more meaningful insights.
 
 ---
 
+## 📊 Power BI Dashboard
+
+An interactive dashboard built using **Power BI Desktop** to analyze e-commerce sales and customer behavior.
+
+### Key Insights:
+- Sales and revenue trends over time
+- Repeat vs one-time customers
+- Top-performing states and regions
+- Order distribution by customer segment
+
+### Files:
+- `powerbi/ecommerce_dashboard.pbix` – Power BI Desktop file
+- `powerbi/dashboard_preview.png` – Dashboard preview image
+
+> 🔍 To explore the dashboard, download the `.pbix` file and open it using **Power BI Desktop** (free).
+
+---
+
 ## 🛠️ 10. Tools & Libraries
 - Python  
 - Pandas  
