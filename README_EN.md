@@ -131,8 +131,6 @@ These new features enabled deeper and more meaningful insights.
 
 ---
 
-## 📊 Power BI Dashboard
-
 ## 📊 Power BI Dashboard – E-Commerce Sales Analysis
 
 An interactive Power BI dashboard was developed to complement the Python analysis
