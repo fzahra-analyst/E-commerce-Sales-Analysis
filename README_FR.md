@@ -131,21 +131,30 @@ Ces nouvelles variables ont permis d’obtenir des analyses plus précises et pe
 
 ---
 
-## 📊 Tableau de bord Power BI
+## 📊 Power BI Dashboard – Analyse des ventes E-Commerce
 
-Un tableau de bord interactif créé avec **Power BI Desktop** pour analyser les ventes e-commerce et le comportement des clients.
+Ce projet inclut un tableau de bord interactif réalisé avec **Power BI**, conçu pour compléter l’analyse exploratoire effectuée en Python et transformer les données en insights métiers exploitables.
 
-### Principaux insights :
-- Évolution des ventes et du chiffre d’affaires dans le temps
-- Clients récurrents vs clients ponctuels
-- États et régions les plus performants
-- Répartition des commandes par segment de clientèle
+Le dashboard permet une lecture claire et dynamique des performances commerciales, du comportement client et de la logistique.
 
-### Fichiers :
-- `powerbi/ecommerce_dashboard.pbix` – Fichier Power BI Desktop
-- `powerbi/dashboard_preview.png` – Image d’aperçu du tableau de bord
+### 🔍 Analyses clés
+- Vue d’ensemble exécutive des performances de vente et de l’évolution des commandes  
+- Analyse du comportement client : clients ponctuels vs clients récurrents  
+- Analyse des délais de livraison et de la performance logistique par région  
+- Analyse des catégories de produits et impact des coûts de livraison  
 
-> 🔍 Pour explorer le tableau de bord, téléchargez le fichier `.pbix` et ouvrez-le avec **Power BI Desktop** (gratuit).
+### 🛠 Outils & techniques
+- Power BI Desktop  
+- Modélisation des données et relations entre tables  
+- Mesures DAX et colonnes calculées  
+- KPI Cards, graphiques interactifs et filtres dynamiques   
+
+
+### 🔗 Tableau de bord interactif (optionnel)
+👉 [Consulter le tableau de bord Power BI interactif](https://app.powerbi.com/groups/me/reports/78215e27-7d3e-4d60-8953-8aba248c016c/ReportSection?experience=power-bi)
+
+> 🔍 Pour explorer le dashboard, téléchargez le fichier `.pbix` et ouvrez-le avec **Power BI Desktop** (gratuit).
+
 ----
 
 ## 🛠️ 10. Outils & Librairies
