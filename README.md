@@ -148,10 +148,6 @@ Le dashboard permet une lecture claire et dynamique des performances commerciale
 - Mesures DAX et colonnes calculées  
 - KPI Cards, graphiques interactifs et filtres dynamiques  
 
-### 📁 Fichiers Power BI
-- `powerbi/ecommerce_dashboard.pbix` – Fichier Power BI Desktop  
-- `powerbi/dashboard_preview.png` – Aperçu du tableau de bord  
-
 > 🔍 Pour explorer le dashboard, téléchargez le fichier `.pbix` et ouvrez-le avec **Power BI Desktop** (gratuit).
 
 ### 🔗 Tableau de bord interactif (optionnel)
